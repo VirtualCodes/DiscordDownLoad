@@ -1,2 +1,1 @@
-# DiscordDownLoad
-Hey, Wanna Play?
+Download Discord :)
